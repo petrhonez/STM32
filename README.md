@@ -18,7 +18,7 @@ This repository contains code and resources for working with the STM32f411ceu6 m
 To get started, you'll need the following:
 - An STM32f411ceu6 microcontroller.
 - A STlink decoder/recorder.
-- A development environment like the 
+- A development environment like the [STM32 Cube IDE](https://www.st.com/en/development-tools/stm32cubeide.html) and [STM32 Cube MX](https://www.st.com/en/development-tools/stm32cubemx.html) and [STM32 Cube Prog](https://www.st.com/en/development-tools/stm32cubeprog.html).
 - Basic understanding of C++.
 
 ### Installation
